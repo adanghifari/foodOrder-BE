@@ -1,3 +1,3 @@
-# foodOrder-BE
+# foodOrder
 
-initial backend project foodOrder
+initial project foodOrder
